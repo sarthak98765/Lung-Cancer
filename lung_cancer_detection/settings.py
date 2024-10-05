@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-_$kp+t*i^lx8fjg5#unf%+=3v#c%^(emd@qaxak1llp$_n%ag%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lung-cancer-detection-850o.onrender.com', 'localhost', '127.0.0.1','0.0.0.0:8000','*']
+ALLOWED_HOSTS = ['lung-cancer-detection-850o.onrender.com', 'localhost', '127.0.0.1','0.0.0.0:8000','*','lung-cancer-vysj.onrender.com']
 
 
 
@@ -83,7 +83,7 @@ DATABASES = {
     }
 }
 
-CSRF_TRUSTED_ORIGINS = ['https://try-jy3v.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://lung-cancer-vysj.onrender.com/']
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
