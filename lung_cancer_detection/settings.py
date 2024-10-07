@@ -83,7 +83,7 @@ DATABASES = {
     }
 }
 
-CSRF_TRUSTED_ORIGINS = ['https://lung-cancer-vysj.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://lung-cancer-ykm1.onrender.com']
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
